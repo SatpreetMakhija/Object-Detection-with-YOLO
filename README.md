@@ -1,5 +1,7 @@
 # Object-Detection-with-YOLO
 
-Package Requirements:
-- Numpy
-- OpenCV
+### Install Required packages [Windows, Mac or Linux]
+Install all the requirements with 
+```
+pip3 install -r requirements.txt
+```
